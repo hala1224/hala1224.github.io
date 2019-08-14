@@ -14,29 +14,12 @@ permalink:  rails_with_javascript_project_-_vanilla_simple
 	
 	
 	
-	Here are few examples:
+	Here are few examples:  by Sergey Ivanov <xufocoder@gmail.com>
 	
 	
 	
 	
-	
-	
-	/*******************************************
- *
- *   Javascript Magic Page
- *
- *   Author: Sergey Ivanov <xufocoder@gmail.com>
- *
- *          (\_/)
- *         (=':'=)
- *      ▀▀▀███████▀▀▀
- *         ███████
- *         ███████
- *
- *   Gist for javascript beginners
- *   programmers to show implicit behavior
- *
- ******************************************/
+
 
 
 /***************
