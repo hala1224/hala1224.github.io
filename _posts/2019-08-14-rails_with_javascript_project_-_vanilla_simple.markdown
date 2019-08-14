@@ -1,14 +1,25 @@
 ---
 layout: post
 title:      "Rails with JavaScript Project - Vanilla Simple"
-date:       2019-08-14 20:53:21 +0000
+date:       2019-08-14 16:53:21 -0400
 permalink:  rails_with_javascript_project_-_vanilla_simple
 ---
 
 
   This is my fourth project and by far the easiest. What can I say? I like vanilla JavaScript and vanilla ice cream too.
 	
-	Everyone raves about the "magic" of Rails, but in my humble yet professional (former engineer) opinion JavaScript is the MAGIC! Here are few examples:
+	Everyone raves about the "magic" of Rails, but in my humble yet professional (former engineer) opinion JavaScript is the MAGIC! 
+	
+	
+	
+	
+	
+	Here are few examples:
+	
+	
+	
+	
+	
 	
 	/*******************************************
  *
