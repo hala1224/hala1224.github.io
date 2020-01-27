@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "Help me Howard"
-date:       2020-01-27 20:07:42 +0000
+date:       2020-01-27 15:07:43 -0500
 permalink:  help_me_howard
 ---
 
